@@ -1,0 +1,15 @@
+langchain
+langgraph
+langchain-community
+langchain-pinecone
+langchain-text-splitters
+langchain-huggingface
+sentence-transformers
+pinecone
+pypdf
+fastapi
+uvicorn[standard]
+python-dotenv
+google-genai
+pytest
+httpx
